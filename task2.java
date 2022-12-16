@@ -1,9 +1,8 @@
-
+// Реализуйте алгоритм сортировки пузырьком числового массива, результат после каждой итерации запишите в лог-файл.
 package HW2;
 import java.util.Random;
 import java.util.logging.*;
 import java.io.IOException;
-// Реализуйте алгоритм сортировки пузырьком числового массива, результат после каждой итерации запишите в лог-файл.
 import java.util.Scanner;
 import java.io.FileInputStream;
 import java.util.logging.ConsoleHandler;
